@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cd on Publishing Consortium</title>
+    <link>https://consortium.io/tags/cd/</link>
+    <description>Recent content in Cd on Publishing Consortium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 24 Jan 2019 14:32:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://consortium.io/tags/cd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ADA Publishing Microservices</title>
+      <link>https://consortium.io/posts/the-figure-shortcode/</link>
+      <pubDate>Thu, 24 Jan 2019 14:32:00 +0100</pubDate>
+      
+      <guid>https://consortium.io/posts/the-figure-shortcode/</guid>
+      <description>Babbage engine (the power-supply end). CC-BY-2.0 Jitze Couperus. Wikimedia
+  About ADA Research Project (Advanced Document Architecture), Oct &amp;lsquo;18 — an interoperable framework
+The problem space ADA is addressing is research publication production. Research publishing is made up of two main workflow types:
+ traditional ‘research paper’ workflows; and then ‘research artifacts’ workflows, which is made up of everything else produced in the research cycle.  If you boil down the key barriers to the use of effective computation systems in this space to three factors, they would be:</description>
+    </item>
+    
+  </channel>
+</rss>

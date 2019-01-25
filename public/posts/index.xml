@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Publishing Consortium</title>
+		<link>https://consortium.io/posts/</link>
+		<description>Recent content in Posts on Publishing Consortium</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 24 Jan 2019 14:32:00 +0100</lastBuildDate>
+		<atom:link href="https://consortium.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>ADA Publishing Microservices</title>
+			<link>https://consortium.io/posts/the-figure-shortcode/</link>
+			<pubDate>Thu, 24 Jan 2019 14:32:00 +0100</pubDate>
+			
+			<guid>https://consortium.io/posts/the-figure-shortcode/</guid>
+			<description>Babbage engine (the power-supply end). CC-BY-2.0 Jitze Couperus. Wikimedia
+  About ADA Research Project (Advanced Document Architecture), Oct &amp;lsquo;18 — an interoperable framework
+The problem space ADA is addressing is research publication production. Research publishing is made up of two main workflow types:
+ traditional ‘research paper’ workflows; and then ‘research artifacts’ workflows, which is made up of everything else produced in the research cycle.  If you boil down the key barriers to the use of effective computation systems in this space to three factors, they would be:</description>
+			<content type="html"><![CDATA[
+
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Babbage_Difference_Engine_%28the_power-supply_end%29.jpg"
+         alt="Babbage engine"/> <figcaption>
+            <p>Babbage engine (the power-supply end). CC-BY-2.0 Jitze Couperus. Wikimedia</p>
+        </figcaption>
+</figure>
+
+
+<h2 id="about-ada-research-project-advanced-document-architecture-oct-18">About ADA Research Project (Advanced Document Architecture), Oct &lsquo;18</h2>
+
+<p>— an interoperable framework</p>
+
+<p>The problem space ADA is addressing is research publication production. Research publishing is made up of two main workflow types:</p>
+
+<ul>
+<li>traditional ‘research paper’ workflows;</li>
+<li>and then ‘research artifacts’ workflows, which is made up of everything else produced in the research cycle.</li>
+</ul>
+
+<p>If you boil down the key barriers to the use of effective computation systems in this space to three factors, they would be:</p>
+
+<ol>
+<li>That the basic digital plumbing doesn’t work, i.e., how can I make a validated DOCX and easily, and 100% reliably transform it into validated HTML5 file.</li>
+<li>Funders can’t afford to fix the problems.</li>
+<li>Anyone who does try to solve the problems in this space uses unsustainable and outdated platform models.</li>
+</ol>
+
+<p>The ADA is to make an microservices API network, using a twofold approach:</p>
+
+<ul>
+<li>to enable document interoperability with, transformation, and semantic enrichment, functionality through a ‘microservice’ network, and</li>
+<li>secondly to reduce costs using automation and Infrastructure as Code (IasC) meaning, CI, CD, virtualization, and cryptographic, technologies.</li>
+</ul>
+
+<p>We can do the above by bringing together different areas of expertise:</p>
+
+<ul>
+<li>Publishing technologies - with Le-tex, Fidus Writer, and Vivliostyle;</li>
+<li>Research life cycle with TIB; and</li>
+<li>CI/CD/ and virtualization with Endocode.</li>
+</ul>
+
+<h2 id="what-would-ada-look-like">What would ADA look like?</h2>
+
+<ul>
+<li><p>ADA Microservices API: There would be an API that providers could offer their services. For example: DataCite with DOIs, ORCiD as authentication IDs, video enrichment via TIB AV portal, PoD via Ingram, ORKG content semantic enrichment, or VIVO research information, etc.</p></li>
+
+<li><p>ADA docs: A real-time web based word processor with multi-format conversion, and all ADA microservices. This would use Fidus Writer, Le-tex, and Vivliostyle technologies.</p></li>
+
+<li><p>All FOSS: cloud deployment GCS, any cloud deploy, baremetal deploy, and institutional white labeling.</p></li>
+</ul>
+
+<h2 id="the-ada-consortium-and-business-model">The ADA consortium and business model</h2>
+
+<p>A consortium of FOSS businesses, development groups, and research institutions would be formed. Le-tex, Fidus Writer, Vivliostyle, and Endocode are already business and R&amp;D partners. We would carry out public facing development rounds to get multiple institutions and parties to invest in the development cycles. TIB with partners would provide services of different kinds to the academic community. Services metering would be employed as API calls—units would need to be determined, or as Blockchain and cryptographic transactions.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
