@@ -1,21 +1,21 @@
 +++
 title = "About the Publishing Consortium"
-date = "2019-01-25"
+date = "2019-02-24"
 +++
 
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
 
-The consortium is a network of businesses, community groups and researchers.
+The consortium is led by: Open Science principles, the recognition of the lack of quality and innovation in technical publishing systems, and in academic publishing a sector held back by monopolistic restrictions.
+
+The consortium is a research network led by the TIB – German National Library of Science and Technology and is made up of research organisations, businesses, researchers, and community groups.
 
 The consortium’s activities include; research and research publishing, software development, business development, advocacy, publishing, events and peer-learning.
 
-The consortium is open to all areas of publishing. The current priority is interoperability between software platforms in scholarly publishing that are using multi-format and multimedia functionality.
-
-The consortium is operated by the research organization the [Hybrid Publishing Group](https://hpg.io/).
+The consortium is open to all areas of publishing. The current priority (2019) is interoperability between software platforms in scholarly publishing that are using multi-format and multimedia functionality.
 
 ### Connecting Platforms
 
-The consortium supports an infrastructural backend software ecology to connect publishing platforms to enable — continuous validation, real-time processing, multi-format outputs and multimedia features.
+The consortium supports an infrastructural backend microservices software ecology called ADA to connect publishing platforms to enable — continuous validation, automatic deployment, real-time processing, multi-format outputs, and multimedia features.
 
 The objective is to promote design excellence in — authoring systems, publication layout and interface design, librarianship and engineering — to enable diverse and global communities in the pursuit of knowledge creation and dissemination.
 
