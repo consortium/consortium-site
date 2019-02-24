@@ -5,7 +5,7 @@ date = "2019-02-24"
 
 The consortium’s mission is to support software development communities to build free and open source publishing infrastructures.
 
-The consortium is led by: Open Science principles, the recognition of the lack of quality and innovation in technical publishing systems, and in academic publishing a sector held back by monopolistic restrictions.
+The mission is informed by the following: Open Science principles, the recognition of the lack of quality and innovation in technical publishing systems, and in academic publishing a sector held back by monopolistic restrictions.
 
 The consortium is a research network led by the TIB – German National Library of Science and Technology and is made up of research organisations, businesses, researchers, and community groups.
 
